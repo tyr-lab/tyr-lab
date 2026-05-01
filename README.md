@@ -1,16 +1,35 @@
-## Hi there 👋
+# ⚔️ Tyr Lab
 
-<!--
-**tyr-lab/tyr-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools for VFX, pipelines and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 What I do
+- ⚙️ Develop tools to automate repetitive workflows  
+- 🧠 Design and optimize VFX pipelines  
+- 🚀 Build systems that improve production efficiency  
+
+---
+
+## 🎯 Focus
+- 🎬 VFX & Post-production  
+- 🔗 Pipeline development  
+- 🤖 Automation & tooling  
+
+---
+
+## 🛠️ Tech
+- 🐍 Python  
+- 🎞️ Nuke / After Effects / Fusion  
+- 🌱 Git  
+
+---
+
+## 🔬 Current work
+- 🧪 Pipeline tools for VFX workflows  
+- ⚡ Automation scripts for production tasks  
+
+---
+
+## ⚡ Philosophy
+> Automate. Optimize. Crea
