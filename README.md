@@ -17,4 +17,4 @@ Building tools for VFX, pipelines and automation.
 
 ---
 
-> Automate. Optimize. Crea
+> Automate. Optimize.
